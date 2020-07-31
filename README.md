@@ -20,7 +20,7 @@ Lambda's Deployment:
 Results: multiple ENIs are created per unique [security_groups]:subnet combination per this doc
 https://aws.amazon.com/blogs/compute/announcing-improved-vpc-networking-for-aws-lambda-functions/
 
-![lambda_networking.png]
+![lambda networking](lambda_networking.png)
 
 
 
