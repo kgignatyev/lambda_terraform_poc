@@ -17,7 +17,10 @@ Lambda's Deployment:
     terraform apply --auto-approve
     
          
-Results: multiple ENIs are created per unique [security_groups]:subnet combination
+Results: multiple ENIs are created per unique [security_groups]:subnet combination per this doc
+https://aws.amazon.com/blogs/compute/announcing-improved-vpc-networking-for-aws-lambda-functions/
+
+![lambda_networking.png]
 
 
 
